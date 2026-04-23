@@ -58,7 +58,7 @@
     "libsignal": "github:NaufalYupra/libsignal-node",
     "lodash": "^4.17.21",
     "music-metadata": "^7.12.3",
-    "pino": "^9.6",
+    "pino": "^8.21.0",
     "protobufjs": "^6.11.3",
     "uuid": "^10.0.0",
     "ws": "^8.13.0"
